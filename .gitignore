@@ -1,0 +1,23 @@
+/Binaries/
+/DerivedDataCache/
+/Intermediate/
+/Saved/
+/.vs/
+/.idea/
+Plugins/**/Binaries/
+Plugins/**/Intermediate/
+*.sln
+*.VC.db
+*.VC.opendb
+*.suo
+*.user
+*.sdf
+*.opensdf
+*.pdb
+.DS_Store
+Thumbs.db
+
+# IDE and build output
+.vscode/
+.vsconfig
+/Build/*/FileOpenOrder/
