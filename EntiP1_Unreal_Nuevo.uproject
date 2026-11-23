@@ -1,6 +1,19 @@
 {
-    "FileVersion": 3,
-    "EngineAssociation": "5.7",
-    "Category": "",
-    "Description": ""
+  "FileVersion": 3,
+  "EngineAssociation": "5.7",
+  "Category": "",
+  "Description": "",
+  "Plugins": [
+    {
+      "Name": "ModelingToolsEditorMode",
+      "Enabled": true,
+      "TargetAllowList": [
+        "Editor"
+      ]
+    },
+    {
+      "Name": "Landmass",
+      "Enabled": true
+    }
+  ]
 }
